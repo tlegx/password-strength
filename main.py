@@ -33,7 +33,7 @@ def main():
 def credits():
     utils.clear_screen()
     print("===== password-strength =====")
-    print("Licensed under the GNU Public License v3.0")
+    print("Licensed under the MIT License")
     print("Copyright (c) 2021 tlegx. All rights reserved.")
     print("For more information, please visit https://github.com/tlegx/password-strength")
     print("Press any key to return to the main screen.")

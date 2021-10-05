@@ -1,4 +1,5 @@
 # password-strength
+[![CodeQL](https://github.com/tlegx/password-strength/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/tlegx/password-strength/actions/workflows/codeql-analysis.yml)</br>
 A "simple" password checker written in Python
 ## Using the program
 ***Make sure you have installed the [Python interpreter](https://python.org) before continuing***</br>
